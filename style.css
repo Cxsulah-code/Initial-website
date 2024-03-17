@@ -1,16 +1,38 @@
-h1 {
-  color: deeppink;
-  font-size: 25pt;
-}
-
 div .head {
   padding: 20px;
-  background-color: blue;
+  background-color: #f9980f;
   background-size: 20px;
+  display: block;
+}
+
+la {
+  float: left;
+
+}
+
+la a {
+  display: block;
+  color: white;
+  text-align: center;
+  /*padding: 14px 16px;*/
+  text-decoration: none;
 }
 
 body {
-    font-size: 15pt;
-    background-color: lime;
-    color: blue;
+  margin: 2px;
+  padding: 2px;
+  background-image: url("chicken-3727097_1920.jpg");
+  font-style: italic;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: serif;
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
